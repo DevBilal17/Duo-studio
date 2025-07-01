@@ -174,7 +174,7 @@ const t4 = gsap.timeline({
     // markers: true,
     start: "top 20%",
     end: "top 10%",
-    scrub: 3,
+    scrub: 1,
   },
 });
 
